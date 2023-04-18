@@ -1,0 +1,4 @@
+#Fichreo .gitignore
+
+#Java compiled classes directory
+bin/
